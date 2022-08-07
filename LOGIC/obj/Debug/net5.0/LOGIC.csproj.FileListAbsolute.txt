@@ -1,0 +1,30 @@
+E:\Work\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\LOGIC.deps.json
+E:\Work\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\LOGIC.dll
+E:\Work\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\ref\LOGIC.dll
+E:\Work\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\LOGIC.pdb
+E:\Work\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\DAL.dll
+E:\Work\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\DAL.pdb
+E:\Work\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.csproj.AssemblyReference.cache
+E:\Work\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.AssemblyInfoInputs.cache
+E:\Work\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.AssemblyInfo.cs
+E:\Work\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.csproj.CoreCompileInputs.cache
+E:\Work\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.csproj.CopyComplete
+E:\Work\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.dll
+E:\Work\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\ref\LOGIC.dll
+E:\Work\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.pdb
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\LOGIC.deps.json
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\LOGIC.dll
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\ref\LOGIC.dll
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\LOGIC.pdb
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\DAL.dll
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\bin\Debug\net5.0\DAL.pdb
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.csproj.AssemblyReference.cache
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.AssemblyInfoInputs.cache
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.AssemblyInfo.cs
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.csproj.CoreCompileInputs.cache
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.csproj.CopyComplete
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.dll
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\ref\LOGIC.dll
+E:\My Collection\Project\3tier\Core_3tier\LOGIC\obj\Debug\net5.0\LOGIC.pdb

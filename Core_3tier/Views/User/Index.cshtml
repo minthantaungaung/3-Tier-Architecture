@@ -1,0 +1,56 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-4"></div>
+        <div class="col-4">
+            <form>
+                <label>Name</label>
+                <input type="text" class="name form-control" />
+                <label>Email</label>
+                <input type="email" class="email form-control"/>
+                <label>Password</label>
+                <input type="password" class="pwd form-control" />
+                <label>Authentication Level</label>
+                <input type="number" class="auth form-control" /><br />
+                <button class="btn btn-info" onclick="Add()">Add User</button>
+            </form>
+        </div>
+        <div class="col-4"></div>
+    </div>
+</div>
+<div class="list">
+
+</div>
+@section Scripts{ 
+    <script>
+        $(function(){
+            List();
+        })
+
+        function List() {
+            $.ajax({
+                cache: false,
+                url: '@Url.Action("_GetUser", "User")',
+                data: {},
+                success: function (e) {
+                    $('.list').empty().append(e);
+                }
+            })
+        }
+
+        function Add() {
+            var name = $('.name').val();
+            var email = $('.email').val();
+            var password = $('.pwd').val();
+            var auth = $('.auth').val();
+            $.ajax({
+                cache: false,
+                url: '@Url.Action("AddUser", "User")',
+                data: { username: name, email: email, password: password, authLevelId: auth },
+                success: function () {
+                    List()
+                }
+            })
+        }
+
+    </script>
+}
